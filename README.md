@@ -5,4 +5,4 @@ Interests
 Game development,
 Software engineering,
 C++,
-Unreal Engine,
+Unreal Engine.
