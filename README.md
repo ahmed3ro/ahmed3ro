@@ -2,8 +2,7 @@ Hi, I'm Ahmed, a computer science student in my 2nd year at SAMS. I'm passionate
 
 Interests
 
-Game development
-Software engineering
-C++
-Unreal Engine
-Artificial intelligence
+Game development,
+Software engineering,
+C++,
+Unreal Engine,
